@@ -2,7 +2,8 @@
 
 ### 0xY1 Team writeups
 
-![logo](https://raw.githubusercontent.com/Nepaletka/Moscow-CTF-School-2025-writeups/refs/heads/main/pic/logo.png?token=GHSAT0AAAAAADBX4NUJH7ATU25ABRHSRKN2Z7SJOEQ)  
+![logo](https://github.com/Nepaletka/Moscow-CTF-School-2025-writeups/blob/main/pic/logo.png)
+
 [CTFtime Profile](https://ctftime.org/team/274948)
 
 
