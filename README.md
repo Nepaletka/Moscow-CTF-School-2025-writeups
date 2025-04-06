@@ -48,5 +48,5 @@ PPC
 
 [Casino](https://github.com/Nepaletka/Moscow-CTF-School-2025-writeups/blob/main/ppc/casino/casino.py)
 
-[Krzew Orzech](https://github.com/Nepaletka/Moscow-CTF-School-2025-writeups/blob/main/ppc/casino/casino.py)
+[Krzew Orzech](https://github.com/Nepaletka/Moscow-CTF-School-2025-writeups/blob/main/ppc/Krzew%20orzech/krzew_orzech.py)
 
