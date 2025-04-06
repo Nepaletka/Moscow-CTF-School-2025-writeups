@@ -7,7 +7,9 @@
 [CTFtime Profile](https://ctftime.org/team/274948)
 
 
-## Tasks
+Misc
+-----
+
 [Sanity Check](https://github.com/Nepaletka/Moscow-CTF-School-2025-writeups/blob/main/misc/Sanity%20Check/Sanity%20Check.md)
 
 [Just netcat](https://github.com/Nepaletka/Moscow-CTF-School-2025-writeups/blob/main/misc/Just%20netcat/Just%20netcat.md)
